@@ -1,5 +1,5 @@
-Noun Project scraper (obsolete)
-===============================
+Noun Project Scraper (WIP)
+==========================
 
 The noun project website has redesigned several times since this was written, and it will assuredly not work anymore.
 
