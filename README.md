@@ -9,11 +9,8 @@ Originally forked from [https://github.com/yourcelf/nounscraper](https://github.
 
 This simple scraper makes this easier!  Point it at an index file on http://thenounproject.com, and it downloads the icons found on that page. It:
 
- * Downloads the .svg
+ * Downloads the SVG
  * Creates a JSON format file with the metadata associated with it
-
-Downloads are cached and throttled to a maximum of one every 5 seconds to be
-nice, and stay within the terms of use of the website.
 
 Requirements
 ------------
